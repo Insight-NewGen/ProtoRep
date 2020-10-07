@@ -1,0 +1,2 @@
+X="victor"
+print(X)
